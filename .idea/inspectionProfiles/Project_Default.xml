@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="cv2.VideoCapture.*" />
+          <option value="typing.NamedTuple.multi_hand_landmarks" />
+          <option value="cv2.cvtColor" />
+          <option value="cv2.COLOR_BGR2RGB" />
+          <option value="cv2.*" />
+          <option value="typing.NamedTuple.multi_handedness" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
